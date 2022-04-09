@@ -1,25 +1,35 @@
-body{
-    font: 20px Arial, sans-serif;
-}
 .navbar {
-    background-color: #06d5d5;
+    background-color: white;
+    font: 20px Arial, sans-serif;
+    
 }
 
 .quem-somos{
-    background-color: #6E6E6E;
-    color: white;
+    background-color: #CECEF6;
+    color: black;
+    
 }
 
 .margin{
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     padding-top: 10px;
 }
 
 .parceiros {
-    background-color: #00BFFF;
+    background-color: #CECEF6;
+}
+.servicos {
+    background-color: #CECEF6;
 }
 
 .bgfooter{
-    background-color: black;
-    color: white;
+    background-color: white;
+    font: 20px Arial, sans-serif;
+    padding-top: 20px;
+}
+h3{
+    font: 25px Arial, sans-serif;
+}
+p {
+    font: 20px Arial, sans-serif;
 }
