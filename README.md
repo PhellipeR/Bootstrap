@@ -1,2 +1,2 @@
 # Bootstrap
-Primeiros passos no bootstrap
+Primeiro site utilizando o framework bootstrap.
